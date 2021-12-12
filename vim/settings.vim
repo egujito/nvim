@@ -14,5 +14,4 @@ syntax on
 colorscheme gruvbox
 set bg=dark
 
-let g:loaded_netrw = 1
-let g:loaded_nerwPlugin = 1
+
