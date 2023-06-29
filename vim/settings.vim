@@ -9,9 +9,9 @@ set noswapfile
 set noshowmode
 set termguicolors
 set clipboard=unnamedplus
-set nowrap
+set wrap
 
 syntax on
 
-colorscheme gruvbox
+colorscheme gruber
 set bg=dark
